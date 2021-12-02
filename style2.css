@@ -1,0 +1,49 @@
+body{
+    background-image: url(background-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.title2 {
+    margin: -5% 0% 6% 1%;
+}
+p{
+    font-family: 'Rationale', sans-serif;
+    font-size: 25px;
+    background-color: rgba(251, 251, 251, 0.49);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 60px 15px;
+    margin-left: 50px;
+    margin-top: -53px;
+}
+.image-title2{
+    width: 330px;
+    margin-top: 100px;
+    margin-left: 166px;
+    
+}
+#parg1{
+    padding-top: 100px ;
+    padding-left: 50px;
+    width: 560px;
+    height: 288px;
+}
+button{
+    border-radius: 15px;
+    padding: 9px;
+    background-color: #5A596E;
+    border-style: none;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    justify-self: center;
+    align-self: flex-end;
+    transform: translate(-200px,-260px);
+}
+.img-next{
+    width: 60%;
+}
+
+.pag2{
+    display: flex;
+    flex-direction: column;
+    
+
+}
